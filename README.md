@@ -23,7 +23,7 @@ var config = {
         ...
         {
             module: 'MMM-Binance',
-            position: "top_rigt",
+            position: "top_right",
             header: "Binance Cryptocurrencies",
             config: {
                 currencies: ['btcusdt','ethusdt'],
